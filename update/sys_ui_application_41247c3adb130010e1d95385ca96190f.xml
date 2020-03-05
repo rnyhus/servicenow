@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>My table</name>
+        <order/>
+        <roles>x_270019_my_app.my_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-05 17:13:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41247c3adb130010e1d95385ca96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My App" source="x_270019_my_app">7c93f0b6db130010e1d95385ca961923</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My App">7c93f0b6db130010e1d95385ca961923</sys_scope>
+        <sys_update_name>sys_ui_application_41247c3adb130010e1d95385ca96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-05 17:13:37</sys_updated_on>
+    </sys_ui_application>
+</record_update>
